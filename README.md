@@ -7,7 +7,7 @@ Kullanıcılar yoğun zamanlarında, istenmeyen veya gereksiz kişisel mesajlar 
 
 ### Heroku Üzerinden Deploy:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/aylak-github/PMChatbot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Arazzq/PMChatbot)
 
 ### 💠 KULLANIM
 
